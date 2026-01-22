@@ -5,7 +5,7 @@ package xyz.jdynb.dymovies.config
  */
 object Api {
   // http://192.168.31.82
-  const val BASE_URL = "http://dyys.jdynb.xyz"
+  const val BASE_URL = "http://wuxianggujun.com:8001"
   // /val BASE_URL = "http://192.168.31.82"
   // const val BASE_URL = "http://192.168.0.104"
   /**
